@@ -1,0 +1,687 @@
+2025-04-24 10:02:38,012 - INFO - Flask SocketIO server starting...
+2025-04-24 10:02:40,792 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:02:52,678 - INFO -  * Restarting with stat
+2025-04-24 10:02:52,981 - INFO - Flask SocketIO server starting...
+2025-04-24 10:02:53,784 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:02:54,426 - WARNING -  * Debugger is active!
+2025-04-24 10:02:54,427 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 10:03:30,991 - INFO - No agents online for domain General.
+2025-04-24 10:05:54,547 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 10:05:54,589 - INFO -  * Restarting with stat
+2025-04-24 10:05:54,937 - INFO - Flask SocketIO server starting...
+2025-04-24 10:05:58,178 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:06:00,481 - WARNING -  * Debugger is active!
+2025-04-24 10:06:00,481 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 10:07:10,223 - INFO - No agents online for domain General.
+2025-04-24 10:10:08,507 - INFO - No agents online for domain General.
+2025-04-24 10:12:30,139 - INFO - No agents online for domain General.
+2025-04-24 10:13:57,353 - INFO - No agents online for domain General.
+2025-04-24 10:15:29,522 - INFO - No agents online for domain General.
+2025-04-24 10:18:00,074 - INFO - No agents online for domain General.
+2025-04-24 10:21:09,105 - INFO - No agents online for domain General.
+2025-04-24 10:22:14,671 - INFO - Flask SocketIO server starting...
+2025-04-24 10:22:19,966 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:22:21,952 - INFO -  * Restarting with stat
+2025-04-24 10:22:22,267 - INFO - Flask SocketIO server starting...
+2025-04-24 10:22:29,951 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:22:33,369 - WARNING -  * Debugger is active!
+2025-04-24 10:22:33,370 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 10:23:08,202 - INFO - No agents online for domain General.
+2025-04-24 10:35:38,660 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 10:35:38,710 - INFO -  * Restarting with stat
+2025-04-24 10:35:39,227 - INFO - Flask SocketIO server starting...
+2025-04-24 10:35:53,253 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:35:58,366 - WARNING -  * Debugger is active!
+2025-04-24 10:35:58,366 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 10:38:22,562 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 10:38:22,593 - INFO -  * Restarting with stat
+2025-04-24 10:38:22,926 - INFO - Flask SocketIO server starting...
+2025-04-24 10:38:28,360 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:38:28,676 - WARNING -  * Debugger is active!
+2025-04-24 10:38:28,676 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 10:38:46,308 - INFO - Flask SocketIO server starting...
+2025-04-24 10:38:47,296 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:38:47,791 - INFO -  * Restarting with stat
+2025-04-24 10:38:48,080 - INFO - Flask SocketIO server starting...
+2025-04-24 10:38:49,009 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:38:51,097 - WARNING -  * Debugger is active!
+2025-04-24 10:38:51,097 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 10:43:03,587 - INFO - Flask SocketIO server starting...
+2025-04-24 10:43:13,950 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:43:30,599 - INFO -  * Restarting with stat
+2025-04-24 10:43:30,904 - INFO - Flask SocketIO server starting...
+2025-04-24 10:43:33,826 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:43:34,861 - WARNING -  * Debugger is active!
+2025-04-24 10:43:34,862 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 10:44:32,860 - INFO - No agents online for domain General.
+2025-04-24 10:46:23,527 - INFO - Flask SocketIO server starting...
+2025-04-24 10:46:33,800 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:46:38,014 - INFO -  * Restarting with stat
+2025-04-24 10:46:38,318 - INFO - Flask SocketIO server starting...
+2025-04-24 10:46:48,062 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:46:51,991 - WARNING -  * Debugger is active!
+2025-04-24 10:46:51,991 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 10:48:45,218 - INFO - Flask SocketIO server starting...
+2025-04-24 10:48:53,110 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:48:56,244 - INFO -  * Restarting with stat
+2025-04-24 10:48:56,567 - INFO - Flask SocketIO server starting...
+2025-04-24 10:49:04,956 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:49:07,427 - WARNING -  * Debugger is active!
+2025-04-24 10:49:07,428 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 10:49:24,391 - INFO - No agents online for domain General.
+2025-04-24 10:52:14,072 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 10:52:14,112 - INFO -  * Restarting with stat
+2025-04-24 10:52:14,439 - INFO - Flask SocketIO server starting...
+2025-04-24 10:52:21,066 - INFO - Flask SocketIO server starting...
+2025-04-24 10:52:29,405 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:52:32,758 - INFO -  * Restarting with stat
+2025-04-24 10:52:33,068 - INFO - Flask SocketIO server starting...
+2025-04-24 10:52:42,212 - INFO - MySQL connection pool created successfully.
+2025-04-24 10:52:45,197 - WARNING -  * Debugger is active!
+2025-04-24 10:52:45,197 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 10:53:03,909 - INFO - No agents online for domain General.
+2025-04-24 11:07:12,044 - INFO - No agents online for domain General.
+2025-04-24 11:09:16,484 - INFO - No agents online for domain General.
+2025-04-24 11:10:48,837 - INFO - No agents online for domain General.
+2025-04-24 11:15:07,586 - INFO - No agents online for domain General.
+2025-04-24 11:23:35,766 - INFO - No agents online for domain General.
+2025-04-24 11:25:26,632 - INFO - No agents online for domain General.
+2025-04-24 11:31:03,165 - INFO - No agents online for domain General.
+2025-04-24 11:33:25,569 - INFO - No agents online for domain General.
+2025-04-24 11:35:15,343 - INFO - No agents online for domain General.
+2025-04-24 11:45:03,525 - INFO - No agents online for domain General.
+2025-04-24 11:46:28,163 - INFO - No agents online for domain General.
+2025-04-24 11:58:07,406 - INFO - No agents online for domain General.
+2025-04-24 11:59:10,624 - INFO - No agents online for domain General.
+2025-04-24 12:07:18,071 - INFO - No agents online for domain General.
+2025-04-24 12:08:55,605 - INFO - No agents online for domain General.
+2025-04-24 12:10:57,586 - INFO - No agents online for domain General.
+2025-04-24 12:13:26,969 - INFO - No agents online for domain General.
+2025-04-24 12:23:45,227 - INFO - No agents online for domain General.
+2025-04-24 12:25:03,647 - INFO - No agents online for domain General.
+2025-04-24 12:28:43,913 - INFO - No agents online for domain General.
+2025-04-24 12:30:51,081 - INFO - No agents online for domain General.
+2025-04-24 12:34:49,292 - INFO - No agents online for domain General.
+2025-04-24 12:34:59,770 - INFO - No agents online for domain Tech Support.
+2025-04-24 12:58:37,406 - INFO - No agents online for domain General.
+2025-04-24 14:09:46,011 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 14:09:46,055 - INFO -  * Restarting with stat
+2025-04-24 14:09:46,538 - INFO - Flask SocketIO server starting...
+2025-04-24 14:09:46,823 - INFO - MySQL connection pool created successfully.
+2025-04-24 14:09:46,856 - WARNING -  * Debugger is active!
+2025-04-24 14:09:46,856 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 14:10:15,332 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 14:10:15,375 - INFO -  * Restarting with stat
+2025-04-24 14:10:15,685 - INFO - Flask SocketIO server starting...
+2025-04-24 14:10:15,799 - INFO - MySQL connection pool created successfully.
+2025-04-24 14:10:15,836 - WARNING -  * Debugger is active!
+2025-04-24 14:10:15,837 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 14:10:25,926 - INFO - Flask SocketIO server starting...
+2025-04-24 14:10:26,037 - INFO - MySQL connection pool created successfully.
+2025-04-24 14:10:26,085 - INFO -  * Restarting with stat
+2025-04-24 14:10:26,382 - INFO - Flask SocketIO server starting...
+2025-04-24 14:10:26,476 - INFO - MySQL connection pool created successfully.
+2025-04-24 14:10:26,524 - WARNING -  * Debugger is active!
+2025-04-24 14:10:26,524 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 14:41:10,497 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 14:41:10,537 - INFO -  * Restarting with stat
+2025-04-24 14:41:10,846 - INFO - Flask SocketIO server starting...
+2025-04-24 14:41:11,299 - INFO - MySQL connection pool created successfully.
+2025-04-24 14:41:11,931 - WARNING -  * Debugger is active!
+2025-04-24 14:41:11,931 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 14:45:21,238 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 14:45:21,267 - INFO -  * Restarting with stat
+2025-04-24 14:45:21,595 - INFO - Flask SocketIO server starting...
+2025-04-24 14:45:21,718 - INFO - MySQL connection pool created successfully.
+2025-04-24 14:45:22,087 - WARNING -  * Debugger is active!
+2025-04-24 14:45:22,087 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 14:55:05,740 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 14:55:05,775 - INFO -  * Restarting with stat
+2025-04-24 14:55:06,109 - INFO - Flask SocketIO server starting...
+2025-04-24 14:55:06,646 - INFO - MySQL connection pool created successfully.
+2025-04-24 14:55:07,130 - WARNING -  * Debugger is active!
+2025-04-24 14:55:07,131 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 14:59:14,427 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 14:59:14,459 - INFO -  * Restarting with stat
+2025-04-24 14:59:14,774 - INFO - Flask SocketIO server starting...
+2025-04-24 14:59:15,508 - INFO - MySQL connection pool created successfully.
+2025-04-24 14:59:16,106 - WARNING -  * Debugger is active!
+2025-04-24 14:59:16,108 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 14:59:46,834 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 14:59:46,878 - INFO -  * Restarting with stat
+2025-04-24 14:59:47,186 - INFO - Flask SocketIO server starting...
+2025-04-24 14:59:47,393 - INFO - MySQL connection pool created successfully.
+2025-04-24 14:59:48,209 - WARNING -  * Debugger is active!
+2025-04-24 14:59:48,209 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 15:01:54,595 - INFO - Flask SocketIO server starting...
+2025-04-24 15:01:55,174 - INFO - MySQL connection pool created successfully.
+2025-04-24 15:01:55,687 - INFO -  * Restarting with stat
+2025-04-24 15:01:55,987 - INFO - Flask SocketIO server starting...
+2025-04-24 15:01:56,815 - INFO - MySQL connection pool created successfully.
+2025-04-24 15:01:57,225 - WARNING -  * Debugger is active!
+2025-04-24 15:01:57,225 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 15:02:37,000 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 15:02:37,039 - INFO -  * Restarting with stat
+2025-04-24 15:02:37,382 - INFO - Flask SocketIO server starting...
+2025-04-24 15:02:39,077 - INFO - MySQL connection pool created successfully.
+2025-04-24 15:02:40,358 - WARNING -  * Debugger is active!
+2025-04-24 15:02:40,373 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 15:03:18,355 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 15:03:18,390 - INFO -  * Restarting with stat
+2025-04-24 15:03:18,707 - INFO - Flask SocketIO server starting...
+2025-04-24 15:03:19,008 - INFO - MySQL connection pool created successfully.
+2025-04-24 15:03:19,414 - WARNING -  * Debugger is active!
+2025-04-24 15:03:19,415 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 15:03:45,958 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 15:03:46,003 - INFO -  * Restarting with stat
+2025-04-24 15:03:46,312 - INFO - Flask SocketIO server starting...
+2025-04-24 15:03:46,672 - INFO - MySQL connection pool created successfully.
+2025-04-24 15:03:47,257 - WARNING -  * Debugger is active!
+2025-04-24 15:03:47,272 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 15:05:03,560 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 15:05:03,589 - INFO -  * Restarting with stat
+2025-04-24 15:05:03,908 - INFO - Flask SocketIO server starting...
+2025-04-24 15:05:04,209 - INFO - MySQL connection pool created successfully.
+2025-04-24 15:05:04,693 - WARNING -  * Debugger is active!
+2025-04-24 15:05:04,693 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 15:05:33,304 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 15:05:33,338 - INFO -  * Restarting with stat
+2025-04-24 15:05:33,651 - INFO - Flask SocketIO server starting...
+2025-04-24 15:05:33,769 - INFO - MySQL connection pool created successfully.
+2025-04-24 15:05:33,817 - WARNING -  * Debugger is active!
+2025-04-24 15:05:33,817 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 15:31:03,309 - INFO - Flask SocketIO server starting...
+2025-04-24 15:31:03,516 - INFO - MySQL connection pool created successfully.
+2025-04-24 15:31:14,589 - INFO -  * Restarting with stat
+2025-04-24 15:31:14,896 - INFO - Flask SocketIO server starting...
+2025-04-24 15:31:14,991 - INFO - MySQL connection pool created successfully.
+2025-04-24 15:31:15,859 - WARNING -  * Debugger is active!
+2025-04-24 15:31:15,859 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 16:07:29,217 - INFO - No agents online for domain General.
+2025-04-24 16:23:00,930 - INFO - No agents online for domain Tech Support.
+2025-04-24 16:24:11,879 - INFO - No agents online for domain Tech Support.
+2025-04-24 16:24:50,829 - INFO - No agents online for domain General.
+2025-04-24 16:25:41,029 - INFO - No agents online for domain General.
+2025-04-24 16:26:40,778 - INFO - No agents online for domain General.
+2025-04-24 16:27:50,095 - INFO - No agents online for domain General.
+2025-04-24 16:28:25,034 - INFO - No agents online for domain General.
+2025-04-24 16:29:38,729 - INFO - No agents online for domain General.
+2025-04-24 16:30:20,129 - INFO - No agents online for domain General.
+2025-04-24 16:31:57,860 - INFO - No agents online for domain General.
+2025-04-24 16:32:46,662 - INFO - No agents online for domain General.
+2025-04-24 17:00:54,847 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 17:00:54,908 - INFO -  * Restarting with stat
+2025-04-24 17:00:55,235 - INFO - Flask SocketIO server starting...
+2025-04-24 17:00:55,347 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:08:38,563 - INFO - Flask SocketIO server starting...
+2025-04-24 17:08:38,673 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:10:11,254 - INFO - Flask SocketIO server starting...
+2025-04-24 17:10:11,349 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:10:14,653 - INFO -  * Restarting with stat
+2025-04-24 17:10:14,938 - INFO - Flask SocketIO server starting...
+2025-04-24 17:10:15,033 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:10:15,563 - WARNING -  * Debugger is active!
+2025-04-24 17:10:15,563 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 17:17:31,905 - INFO - No agents online for domain General.
+2025-04-24 17:19:42,755 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 17:19:42,798 - INFO -  * Restarting with stat
+2025-04-24 17:19:43,116 - INFO - Flask SocketIO server starting...
+2025-04-24 17:19:43,233 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:19:43,276 - WARNING -  * Debugger is active!
+2025-04-24 17:19:43,277 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 17:20:32,037 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 17:20:32,087 - INFO -  * Restarting with stat
+2025-04-24 17:20:32,403 - INFO - Flask SocketIO server starting...
+2025-04-24 17:20:32,520 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:20:33,818 - WARNING -  * Debugger is active!
+2025-04-24 17:20:33,818 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 17:22:42,932 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 17:22:42,979 - INFO -  * Restarting with stat
+2025-04-24 17:22:43,321 - INFO - Flask SocketIO server starting...
+2025-04-24 17:22:43,421 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:22:43,670 - WARNING -  * Debugger is active!
+2025-04-24 17:22:43,671 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 17:29:52,351 - INFO - Flask SocketIO server starting...
+2025-04-24 17:29:52,462 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:29:52,990 - INFO -  * Restarting with stat
+2025-04-24 17:29:53,291 - INFO - Flask SocketIO server starting...
+2025-04-24 17:29:53,386 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:29:53,450 - WARNING -  * Debugger is active!
+2025-04-24 17:29:53,454 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 17:30:12,899 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-24 17:30:12,929 - INFO -  * Restarting with stat
+2025-04-24 17:30:13,262 - INFO - Flask SocketIO server starting...
+2025-04-24 17:30:13,373 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:30:13,404 - WARNING -  * Debugger is active!
+2025-04-24 17:30:13,404 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 17:30:43,474 - INFO - Flask SocketIO server starting...
+2025-04-24 17:30:43,585 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:30:59,157 - INFO -  * Restarting with stat
+2025-04-24 17:30:59,453 - INFO - Flask SocketIO server starting...
+2025-04-24 17:30:59,564 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:31:00,576 - WARNING -  * Debugger is active!
+2025-04-24 17:31:00,576 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 17:31:44,683 - INFO - No agents online for domain General.
+2025-04-24 17:33:50,019 - INFO - Flask SocketIO server starting...
+2025-04-24 17:33:50,179 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:33:50,561 - INFO -  * Restarting with stat
+2025-04-24 17:33:50,845 - INFO - Flask SocketIO server starting...
+2025-04-24 17:33:50,956 - INFO - MySQL connection pool created successfully.
+2025-04-24 17:33:51,532 - WARNING -  * Debugger is active!
+2025-04-24 17:33:51,538 - INFO -  * Debugger PIN: 106-120-846
+2025-04-24 17:33:51,802 - INFO - New agent 182957 registered in domain General.
+2025-04-25 09:14:56,680 - INFO - Flask SocketIO server starting...
+2025-04-25 09:14:56,822 - INFO - MySQL connection pool created successfully.
+2025-04-25 09:15:07,136 - INFO -  * Restarting with stat
+2025-04-25 09:15:07,479 - INFO - Flask SocketIO server starting...
+2025-04-25 09:15:07,558 - INFO - MySQL connection pool created successfully.
+2025-04-25 09:15:08,691 - WARNING -  * Debugger is active!
+2025-04-25 09:15:08,693 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 09:18:23,621 - INFO - No agents online for domain General.
+2025-04-25 09:20:30,590 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 09:20:30,631 - INFO -  * Restarting with stat
+2025-04-25 09:20:30,959 - INFO - Flask SocketIO server starting...
+2025-04-25 09:20:31,067 - INFO - MySQL connection pool created successfully.
+2025-04-25 09:20:31,634 - WARNING -  * Debugger is active!
+2025-04-25 09:20:31,635 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 09:20:52,991 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 09:20:53,024 - INFO -  * Restarting with stat
+2025-04-25 09:20:53,355 - INFO - Flask SocketIO server starting...
+2025-04-25 09:20:53,441 - INFO - MySQL connection pool created successfully.
+2025-04-25 09:20:53,952 - WARNING -  * Debugger is active!
+2025-04-25 09:20:53,952 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 09:21:25,767 - INFO - Flask SocketIO server starting...
+2025-04-25 09:21:25,873 - INFO - MySQL connection pool created successfully.
+2025-04-25 09:21:44,430 - INFO -  * Restarting with stat
+2025-04-25 09:21:44,727 - INFO - Flask SocketIO server starting...
+2025-04-25 09:21:44,830 - INFO - MySQL connection pool created successfully.
+2025-04-25 09:21:45,280 - WARNING -  * Debugger is active!
+2025-04-25 09:21:45,280 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 09:22:25,272 - INFO - No agents online for domain General.
+2025-04-25 09:25:37,315 - INFO - No agents online for domain General.
+2025-04-25 09:35:38,972 - INFO - New agent 182957 registered in domain General.
+2025-04-25 09:37:21,279 - INFO - No agents online for domain General.
+2025-04-25 10:11:04,037 - INFO - No agents online for domain Tech Support.
+2025-04-25 10:23:54,767 - INFO - Agent 182957 reconnected in domain Tech Support.
+2025-04-25 10:24:15,074 - INFO - Agent 182957 reconnected in domain Tech Support.
+2025-04-25 10:24:15,216 - INFO - Agent 182957 reconnected in domain Tech Support.
+2025-04-25 10:24:39,699 - INFO - Agent 182957 reconnected in domain Tech Support.
+2025-04-25 10:24:46,016 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 10:44:39,304 - INFO - No agents online for domain General.
+2025-04-25 10:45:18,045 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 10:45:50,798 - INFO - New user eWKIjgjs1VJMoR86AABT connected to agent 182957 in domain General.
+2025-04-25 10:45:51,114 - INFO - Reconnected chat for user eWKIjgjs1VJMoR86AABT with agent 182957.
+2025-04-25 10:45:51,444 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 10:46:12,655 - INFO - Message from eWKIjgjs1VJMoR86AABT to 182957 logged and forwarded.
+2025-04-25 10:46:58,550 - INFO - Message from 182957 to eWKIjgjs1VJMoR86AABT logged and forwarded.
+2025-04-25 10:48:15,494 - INFO - Message from eWKIjgjs1VJMoR86AABT to 182957 logged and forwarded.
+2025-04-25 10:48:47,437 - INFO - Message from 182957 to eWKIjgjs1VJMoR86AABT logged and forwarded.
+2025-04-25 10:49:01,244 - INFO - Message from eWKIjgjs1VJMoR86AABT to 182957 logged and forwarded.
+2025-04-25 10:49:20,524 - INFO - Message from 182957 to eWKIjgjs1VJMoR86AABT logged and forwarded.
+2025-04-25 10:49:29,520 - INFO - Message from eWKIjgjs1VJMoR86AABT to 182957 logged and forwarded.
+2025-04-25 10:49:41,152 - INFO - Chat ended by user eWKIjgjs1VJMoR86AABT with agent 182957
+2025-04-25 10:49:41,394 - INFO - Chat ended by user eWKIjgjs1VJMoR86AABT with agent 182957
+2025-04-25 10:49:41,447 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 10:49:47,264 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 10:49:47,474 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 10:51:18,374 - INFO - No agents online for domain General.
+2025-04-25 11:04:21,623 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 11:04:21,678 - INFO -  * Restarting with stat
+2025-04-25 11:04:22,201 - INFO - Flask SocketIO server starting...
+2025-04-25 11:04:22,614 - INFO - MySQL connection pool created successfully.
+2025-04-25 11:04:23,189 - WARNING -  * Debugger is active!
+2025-04-25 11:04:23,191 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 11:08:19,706 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 11:08:19,742 - INFO -  * Restarting with stat
+2025-04-25 11:08:20,062 - INFO - Flask SocketIO server starting...
+2025-04-25 11:08:20,501 - INFO - MySQL connection pool created successfully.
+2025-04-25 11:08:21,371 - WARNING -  * Debugger is active!
+2025-04-25 11:08:21,372 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 11:21:59,506 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 11:21:59,540 - INFO -  * Restarting with stat
+2025-04-25 11:21:59,854 - INFO - Flask SocketIO server starting...
+2025-04-25 11:22:00,431 - INFO - MySQL connection pool created successfully.
+2025-04-25 11:22:01,189 - WARNING -  * Debugger is active!
+2025-04-25 11:22:01,189 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 11:28:07,661 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 11:28:07,699 - INFO -  * Restarting with stat
+2025-04-25 11:28:08,026 - INFO - Flask SocketIO server starting...
+2025-04-25 11:28:08,468 - INFO - MySQL connection pool created successfully.
+2025-04-25 11:28:08,813 - WARNING -  * Debugger is active!
+2025-04-25 11:28:08,815 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 11:28:26,074 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 11:28:26,117 - INFO -  * Restarting with stat
+2025-04-25 11:28:26,427 - INFO - Flask SocketIO server starting...
+2025-04-25 11:28:27,134 - INFO - MySQL connection pool created successfully.
+2025-04-25 11:28:27,656 - WARNING -  * Debugger is active!
+2025-04-25 11:28:27,656 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 11:40:41,924 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:40:50,075 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:40:50,329 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:41:33,897 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:41:34,327 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:41:43,489 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:41:43,788 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:42:19,539 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 11:42:19,572 - INFO -  * Restarting with stat
+2025-04-25 11:42:19,930 - INFO - Flask SocketIO server starting...
+2025-04-25 11:42:20,876 - INFO - MySQL connection pool created successfully.
+2025-04-25 11:42:21,821 - WARNING -  * Debugger is active!
+2025-04-25 11:42:21,822 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 11:42:35,751 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:42:49,407 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:42:49,742 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:45:56,950 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:45:57,221 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:47:46,370 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:48:55,471 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:49:02,553 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:49:03,518 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:49:39,921 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:50:05,770 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:50:21,128 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:50:21,681 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:50:48,437 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:50:57,204 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:50:57,568 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:53:12,968 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 11:53:13,003 - INFO -  * Restarting with stat
+2025-04-25 11:53:13,319 - INFO - Flask SocketIO server starting...
+2025-04-25 11:53:14,686 - INFO - MySQL connection pool created successfully.
+2025-04-25 11:53:15,804 - WARNING -  * Debugger is active!
+2025-04-25 11:53:15,804 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 11:53:18,472 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:53:18,902 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:54:38,906 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:54:43,337 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 11:54:43,380 - INFO -  * Restarting with stat
+2025-04-25 11:54:43,719 - INFO - Flask SocketIO server starting...
+2025-04-25 11:54:44,770 - INFO - MySQL connection pool created successfully.
+2025-04-25 11:54:45,373 - WARNING -  * Debugger is active!
+2025-04-25 11:54:45,373 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 11:54:51,329 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:54:51,770 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 11:58:59,606 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:00:00,785 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:00:10,633 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:00:11,052 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:02:39,500 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:02:48,008 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:02:49,330 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:05:26,051 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:05:41,434 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:05:42,596 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:08:01,219 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:08:09,712 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:08:10,697 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:09:14,334 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:09:24,385 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:09:25,316 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:10:15,359 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:10:19,764 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:10:28,003 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:10:29,128 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:20:27,794 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 12:20:27,839 - INFO -  * Restarting with stat
+2025-04-25 12:20:28,279 - INFO - Flask SocketIO server starting...
+2025-04-25 12:20:28,703 - INFO - MySQL connection pool created successfully.
+2025-04-25 12:20:29,400 - WARNING -  * Debugger is active!
+2025-04-25 12:20:29,402 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 12:31:21,884 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:32:40,435 - INFO - New user 4qgan38KF5uwNe5vAABj connected to agent 182957 in domain General.
+2025-04-25 12:32:40,610 - INFO - Reconnected chat for user 4qgan38KF5uwNe5vAABj with agent 182957.
+2025-04-25 12:32:44,454 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:33:14,887 - INFO - Message from 4qgan38KF5uwNe5vAABj to 182957 logged and forwarded.
+2025-04-25 12:33:58,449 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 12:33:58,491 - INFO -  * Restarting with stat
+2025-04-25 12:33:58,935 - INFO - Flask SocketIO server starting...
+2025-04-25 12:33:59,986 - INFO - MySQL connection pool created successfully.
+2025-04-25 12:34:00,534 - WARNING -  * Debugger is active!
+2025-04-25 12:34:00,534 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 12:34:10,321 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:34:10,350 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:10,870 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:14,719 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:34:14,784 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:15,408 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:21,664 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:22,053 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:22,621 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:32,034 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:34:32,101 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:32,433 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:34,433 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:34:34,516 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:35,020 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:36,784 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:34:36,867 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:37,800 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:47,345 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:47,600 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:47,995 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:55,550 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:34:55,594 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:55,800 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:56,867 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:34:56,934 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:57,151 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:57,943 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:34:57,988 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:34:58,118 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:35:05,231 - INFO - Message from 4qgan38KF5uwNe5vAABj to 182957 logged and forwarded.
+2025-04-25 12:36:43,116 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:36:43,136 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:36:43,700 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:26,593 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:37:26,632 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:26,864 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:33,274 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:37:33,321 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:33,602 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:34,186 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:37:34,199 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:34,253 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:34,355 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:37:34,371 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:34,410 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:34,501 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:37:34,518 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:34,817 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:35,673 - INFO - Chat ended by user 4qgan38KF5uwNe5vAABj with agent None
+2025-04-25 12:37:35,708 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:37:35,967 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:38:17,468 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:38:17,616 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:38:25,743 - ERROR - Error in request_live_chat
+Traceback (most recent call last):
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\connection_cext.py", line 755, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Duplicate entry '4qgan38KF5uwNe5vAABj' for key 'users.user_connection_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Projects\RealChatPython\index.py", line 372, in request_live_chat
+    cursor.execute("""
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\cursor_cext.py", line 351, in execute
+    self._connection.cmd_query(
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\connection_cext.py", line 763, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.IntegrityError: 1062 (23000): Duplicate entry '4qgan38KF5uwNe5vAABj' for key 'users.user_connection_id'
+2025-04-25 12:38:25,861 - ERROR - Error in request_live_chat
+Traceback (most recent call last):
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\connection_cext.py", line 755, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Duplicate entry '4qgan38KF5uwNe5vAABj' for key 'users.user_connection_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Projects\RealChatPython\index.py", line 372, in request_live_chat
+    cursor.execute("""
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\cursor_cext.py", line 351, in execute
+    self._connection.cmd_query(
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\connection_cext.py", line 763, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.IntegrityError: 1062 (23000): Duplicate entry '4qgan38KF5uwNe5vAABj' for key 'users.user_connection_id'
+2025-04-25 12:38:26,001 - ERROR - Error in request_live_chat
+Traceback (most recent call last):
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\connection_cext.py", line 755, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Duplicate entry '4qgan38KF5uwNe5vAABj' for key 'users.user_connection_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Projects\RealChatPython\index.py", line 372, in request_live_chat
+    cursor.execute("""
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\cursor_cext.py", line 351, in execute
+    self._connection.cmd_query(
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\RealChatPython\myenv\Lib\site-packages\mysql\connector\connection_cext.py", line 763, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.IntegrityError: 1062 (23000): Duplicate entry '4qgan38KF5uwNe5vAABj' for key 'users.user_connection_id'
+2025-04-25 12:42:19,548 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:42:19,781 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:42:24,951 - INFO - New user kqp_-BI_gD3jVJB1AABz connected to agent 182957 in domain General.
+2025-04-25 12:42:25,232 - INFO - Reconnected chat for user kqp_-BI_gD3jVJB1AABz with agent 182957.
+2025-04-25 12:42:25,256 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:42:36,558 - INFO - Message from 182957 to kqp_-BI_gD3jVJB1AABz logged and forwarded.
+2025-04-25 12:42:46,667 - INFO - Message from kqp_-BI_gD3jVJB1AABz to 182957 logged and forwarded.
+2025-04-25 12:42:50,177 - INFO - Chat ended by user kqp_-BI_gD3jVJB1AABz with agent 182957
+2025-04-25 12:42:50,854 - INFO - Chat ended by user kqp_-BI_gD3jVJB1AABz with agent 182957
+2025-04-25 12:42:50,885 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:42:56,051 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 12:42:56,254 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 13:00:59,478 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 13:00:59,759 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 13:01:24,142 - INFO - New agent 218190 registered in domain Tech Support.
+2025-04-25 14:21:09,325 - INFO - Agent 218190 reconnected in domain Tech Support.
+2025-04-25 14:21:18,186 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 14:22:00,571 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 14:22:21,691 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 14:22:23,550 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 14:22:24,488 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 14:22:25,155 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 14:22:25,901 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 14:22:26,834 - INFO - Agent 182957 reconnected in domain General.
+2025-04-25 16:02:14,431 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:02:32,587 - INFO - New user CRDuPzHA9G2mgVEeAADn connected to agent 218190 in domain General.
+2025-04-25 16:02:32,716 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:02:47,513 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:02:56,250 - INFO - Message from CRDuPzHA9G2mgVEeAADn to 218190 logged and forwarded.
+2025-04-25 16:04:29,447 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:04:29,748 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:04:29,930 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:05:07,345 - INFO - Chat ended between CRDuPzHA9G2mgVEeAADn and 218190. Reason: transport close
+2025-04-25 16:05:08,381 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:05:08,401 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:05:08,665 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:06:51,768 - INFO - Message from CRDuPzHA9G2mgVEeAADn to 218190 logged and forwarded.
+2025-04-25 16:07:03,617 - INFO - Message from None to CRDuPzHA9G2mgVEeAADn logged and forwarded.
+2025-04-25 16:10:15,863 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:10:16,146 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:10:16,411 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:18:42,905 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:18:42,996 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:18:43,203 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:18:52,649 - INFO - Message from CRDuPzHA9G2mgVEeAADn to 218190 logged and forwarded.
+2025-04-25 16:19:17,661 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:19:20,532 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:19:20,844 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:19:20,868 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:19:20,877 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:19:25,067 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:19:33,827 - INFO - Agent 218190 reconnected in domain Tech Support.
+2025-04-25 16:19:39,644 - INFO - Agent 218190 reconnected in domain Tech Support.
+2025-04-25 16:20:42,280 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:20:50,779 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:21:38,243 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:21:46,290 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:22:58,729 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:23:04,227 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:23:04,361 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:23:04,510 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:23:23,460 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:23:32,037 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:23:32,165 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:23:32,326 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:24:02,926 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:24:09,557 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:24:09,909 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:24:09,964 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:24:16,458 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:24:16,667 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:24:17,391 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:24:25,610 - INFO - Message from CRDuPzHA9G2mgVEeAADn to 218190 logged and forwarded.
+2025-04-25 16:25:24,886 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:27:04,892 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:27:11,234 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:27:12,601 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:27:13,459 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:28:43,559 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:28:48,739 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:28:49,021 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:28:49,143 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 16:28:57,314 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:28:57,551 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:28:57,709 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:29:27,088 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:29:27,391 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:29:27,607 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:30:08,375 - INFO - Message from CRDuPzHA9G2mgVEeAADn to 218190 logged and forwarded.
+2025-04-25 16:31:03,705 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 16:31:03,762 - INFO -  * Restarting with stat
+2025-04-25 16:31:04,079 - INFO - Flask SocketIO server starting...
+2025-04-25 16:31:04,966 - INFO - MySQL connection pool created successfully.
+2025-04-25 16:31:06,072 - WARNING -  * Debugger is active!
+2025-04-25 16:31:06,073 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 16:32:23,333 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 16:32:23,369 - INFO -  * Restarting with stat
+2025-04-25 16:32:23,671 - INFO - Flask SocketIO server starting...
+2025-04-25 16:32:24,462 - INFO - MySQL connection pool created successfully.
+2025-04-25 16:32:25,252 - WARNING -  * Debugger is active!
+2025-04-25 16:32:25,252 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 16:32:29,359 - INFO -  * Detected change in 'D:\\Projects\\RealChatPython\\index.py', reloading
+2025-04-25 16:32:29,399 - INFO -  * Restarting with stat
+2025-04-25 16:32:29,703 - INFO - Flask SocketIO server starting...
+2025-04-25 16:32:31,051 - INFO - MySQL connection pool created successfully.
+2025-04-25 16:32:31,523 - WARNING -  * Debugger is active!
+2025-04-25 16:32:31,523 - INFO -  * Debugger PIN: 106-120-846
+2025-04-25 16:50:11,151 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:50:11,354 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:50:11,408 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:51:36,601 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:51:36,848 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:51:36,985 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:51:50,515 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:51:51,001 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:51:51,772 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:52:22,284 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:52:22,521 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:52:22,768 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:52:41,502 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:52:41,635 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:52:41,835 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:52:51,189 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:52:51,318 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:52:51,340 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:53:00,204 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:53:00,396 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:53:00,401 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:53:11,094 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:53:11,437 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 16:53:11,635 - INFO - Reconnected chat for user CRDuPzHA9G2mgVEeAADn with agent 218190.
+2025-04-25 17:11:51,467 - INFO - Chat ended by user CRDuPzHA9G2mgVEeAADn with agent 218190
+2025-04-25 17:11:51,786 - INFO - Chat ended by user CRDuPzHA9G2mgVEeAADn with agent 218190
+2025-04-25 17:11:51,831 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 17:11:57,772 - INFO - Agent 218190 reconnected in domain General.
+2025-04-25 17:11:57,895 - INFO - Agent 218190 reconnected in domain General.

@@ -1,0 +1,261 @@
+*{
+  box-sizing: border-box;
+}
+
+.botIconContainer {
+  position: fixed;
+  bottom: 50px;
+  right: 5px;
+  background: #007bff;
+  color: #fff;
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+.appContainer {
+  position: relative;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  z-index: 999;
+}
+
+.ChatbotContainer {
+  border: 1px solid #ccc;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+  border-radius: 10px;
+  box-shadow: 0 0px 1px 0 rgba(0, 0, 0, 0.16), 0 0px 10px 0 #00000096;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+
+.ChatbotContainer.show {
+  transform: translateY(0);
+}
+
+.chatbotNavbar {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px 0px 10px;
+  color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 8px;
+}
+
+.logoStyle {
+  border-radius: 100%;
+}
+
+.menuItems {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.chatbotBody {
+  overflow-y: auto;
+  scrollbar-width: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.loderContainer {
+  padding-bottom: 20px;
+}
+
+/* HTML: <div class="loader"></div> */
+.loader {
+  width: 40px; /* Adjusted width for four dots */
+  height: 15px;
+  aspect-ratio: 4; /* Adjusted for four dots */
+  --_color1: hwb(0 9% 11%); /* Change to your preferred color */
+  --_color2: #d8cb19; /* Change to your preferred color */
+  --_color3: #1591a1; /* Change to your preferred color */
+  --_color4: #0b4119; /* Added color for the fourth dot */
+  --_g: no-repeat
+      radial-gradient(circle closest-side, var(--_color1) 90%, #0000),
+    no-repeat radial-gradient(circle closest-side, var(--_color2) 90%, #0000),
+    no-repeat radial-gradient(circle closest-side, var(--_color3) 90%, #0000),
+    no-repeat radial-gradient(circle closest-side, var(--_color4) 90%, #0000); /* Added gradient for the fourth dot */
+  background: var(--_g) 0% 50%, var(--_g) 33.33% 50%, var(--_g) 66.66% 50%,
+    var(--_g) 100% 50%; /* Adjusted background positions for four dots */
+  background-size: calc(100% / 4) 50%; /* Adjusted size for four dots */
+  animation: l4 1s infinite linear;
+}
+
+@keyframes l4 {
+  20% {
+    background-position: 0% 0%, 33.33% 50%, 66.66% 50%, 100% 50%;
+  }
+  40% {
+    background-position: 0% 100%, 33.33% 0%, 66.66% 50%, 100% 50%;
+  }
+  60% {
+    background-position: 0% 50%, 33.33% 100%, 66.66% 0%, 100% 50%;
+  }
+  80% {
+    background-position: 0% 50%, 33.33% 50%, 66.66% 100%, 100% 0%;
+  }
+}
+
+.suggestionInptContainer {
+  justify-items: end;
+  position: relative;
+  /* margin-top: 20px; */
+  height: 5px;
+}
+
+.suggestionTab {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  background: white;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+  transition: height 1s ease;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.suggestionTab.expanded {
+  height: 250px;
+}
+
+.suggestionTab.collapsed {
+  height: 40px;
+}
+
+.suggestionNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f0f0f0;
+  border-bottom: 1px solid #ddd;
+}
+
+.suggestionBody {
+  padding: 10px;
+  height: 240px;
+  overflow: auto;
+  scrollbar-width: none;
+}
+
+.inputContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-top: 10px;
+}
+.inputMic {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+}
+.chatInput {
+  height: 40px;
+  width: 100%;
+  border: none;
+  outline: none;
+  margin-left: 5px;
+  padding: 0px 5px;
+  text-transform: capitalize;
+}
+
+.Button {
+  cursor: pointer;
+  font-size: 40px;
+  color: green;
+}
+
+.chatBotIcons {
+  cursor: pointer;
+  font-size: 25px;
+  margin-right: 5px;
+}
+
+/* no problem */
+
+.userContaint {
+  margin: 20px 10px;
+  display: flex;
+}
+
+.userResponse {
+  background-color: #dafaf1;
+  padding: 15px 25px;
+  display: inline;
+  border-radius: 20px 0px 20px 20px;
+  font-size: 15px;
+}
+.botResponse {
+  margin-top: 10px;
+  background-color: #dafaf1;
+  padding: 10px;
+  border-radius: 20px 20px 20px 0px;
+  width: 65%;
+  font-size: 15px;
+}
+.botImage {
+  height: 40px;
+  width: 40px;
+  margin-bottom: 10px;
+  background-color: gainsboro;
+  border-radius: 10px 0px 10px 10px;
+}
+
+.userImage {
+  font-size: 15px;
+  margin-left: 10px;
+  color: #121212;
+}
+
+.TimeStap {
+  font-size: 12px;
+  margin-top: 5px;
+  color: #121212;
+}
+
+.botContaint {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.card {
+  width: 90%;
+}
+
+.hoverableButton {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  cursor: pointer; /* Change the cursor to a pointer to indicate it's clickable */
+  border: 1px solid black; /* Light border color */
+  border-radius: 10px; /* Optional: add rounded corners */
+  background-color: white; /* Default background color */
+  color: black; /* Default text color */
+  padding: 10px;
+}
+
+.buttonText {
+  margin-left: 10px;
+}
+
+.hoverableButton:hover {
+  color: #0099ff; /* Text color on hover */
+  border-color: #0099ff; /* Border color on hover */
+}
